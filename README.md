@@ -105,8 +105,12 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [0 - Blockchain: The Basics](https://blog.njf.dev/0-blockchain-the-basics/)
+- [Weekly News - 10/23/22](https://blog.njf.dev/newsletters/weekly-news-10-23-22/)
+- [Java is NOT Javascript](https://blog.njf.dev/java-is-not-javascript/)
+- [Weekly News - 10/16/22](https://blog.njf.dev/newsletters/weekly-news-10-16-22/)
+- [What is Tacochain?](https://blog.njf.dev/what-is-tacochain/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
