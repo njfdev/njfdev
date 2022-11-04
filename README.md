@@ -106,11 +106,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [What are the Top 15 Cryptocurrencies?](https://blog.njf.dev/what-are-the-top-15-blockchains/)
 - [Weekly News - 10/30/22 🎃](https://blog.njf.dev/newsletters/weekly-news-10-26-22/)
 - [0 - Blockchain: The Basics](https://blog.njf.dev/0-blockchain-the-basics/)
 - [Weekly News - 10/23/22](https://blog.njf.dev/newsletters/weekly-news-10-23-22/)
 - [Java is NOT Javascript](https://blog.njf.dev/java-is-not-javascript/)
-- [Weekly News - 10/16/22](https://blog.njf.dev/newsletters/weekly-news-10-16-22/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
