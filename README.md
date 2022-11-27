@@ -106,11 +106,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Weekly News - 11/27/21](https://blog.njf.dev/newsletters/weekly-news-11-27-21/)
 - [Weekly News - 11/20/22](https://blog.njf.dev/newsletters/weekly-news-11-20-22/)
 - [Weekly News - 11/13/22](https://blog.njf.dev/newsletters/weekly-news-11-13-22/)
 - [Immunefi - The Security Company that Protects Billions of Dollars💰](https://blog.njf.dev/immunefi-protector-of-billions/)
 - [Weekly News - 11/6/22](https://blog.njf.dev/newsletters/weekly-news-11-6-22/)
-- [What are the Top 15 Cryptocurrencies?](https://blog.njf.dev/what-are-the-top-15-blockchains/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
