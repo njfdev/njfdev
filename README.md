@@ -109,11 +109,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It Looks Empty In Here](https://blog.njf.dev/podcasts/it-looks-empty-in-here/)
 - [Weekly News - 12/25/22 🎄](https://blog.njf.dev/newsletters/weekly-news-12-25-22/)
 - [Weekly News - 12/18/22](https://blog.njf.dev/newsletters/weekly-news-12-18-22/)
 - [Weekly News - 12/11/22](https://blog.njf.dev/newsletters/weekly-news-12-11-22/)
 - [Weekly News - 12/4/22](https://blog.njf.dev/newsletters/weekly-news-12-4-22/)
-- [Weekly News - 11/27/21](https://blog.njf.dev/newsletters/weekly-news-11-27-21/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
