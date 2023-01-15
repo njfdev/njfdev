@@ -109,11 +109,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[Free] Weekly News - 1/15/23](https://blog.njf.dev/newsletters/weekly-news-1-15-23/)
 - [Weekly News - 1/8/22](https://blog.njf.dev/newsletters/weekly-news-1-8-22/)
 - [Weekly News - 1/1/23 🎆](https://blog.njf.dev/newsletters/weekly-news-1-1-23/)
 - [1. Personal Update - A New Podcast? &lpar;And Other News&rpar;](https://blog.njf.dev/personal-update-1/)
 - [It Looks Empty In Here](https://blog.njf.dev/podcasts/it-looks-empty-in-here/)
-- [Weekly News - 12/25/22 🎄](https://blog.njf.dev/newsletters/weekly-news-12-25-22/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
