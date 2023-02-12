@@ -109,11 +109,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Weekly News - 2/12/23](https://blog.njf.dev/newsletters/weekly-news-2-12-23/)
 - [Weekly News - 2/5/23](https://blog.njf.dev/newsletters/weekly-news-2-5-23/)
 - [Weekly News - 1/29/23](https://blog.njf.dev/newsletters/weekly-news-1-29-23/)
 - [Weekly News - 1/22/23](https://blog.njf.dev/newsletters/weekly-news-1-22-23/)
 - [1. The World of OpenAI](https://blog.njf.dev/podcasts/the-world-of-openai/)
-- [[Free] Weekly News - 1/15/23](https://blog.njf.dev/newsletters/weekly-news-1-15-23/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
