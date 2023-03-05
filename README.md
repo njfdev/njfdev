@@ -109,11 +109,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Weekly News - 3/5/23](https://blog.njf.dev/newsletters/weekly-news-3-5-23/)
 - [Weekly News - 2/26/23](https://blog.njf.dev/newsletters/weekly-news-2-26-23/)
 - [2. This is the New Bing](https://blog.njf.dev/podcasts/this-is-the-new-bing/)
 - [Weekly News - 2/19/23](https://blog.njf.dev/newsletters/weekly-news-2-19-23/)
 - [Weekly News - 2/12/23](https://blog.njf.dev/newsletters/weekly-news-2-12-23/)
-- [Weekly News - 2/5/23](https://blog.njf.dev/newsletters/weekly-news-2-5-23/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
