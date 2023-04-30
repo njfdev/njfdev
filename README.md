@@ -109,11 +109,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[Important!] Weekly News - 4/30/23](https://blog.njf.dev/newsletters/weekly-news-4-30-23/)
 - [Weekly News - 4/23/23](https://blog.njf.dev/newsletters/weekly-news-4-23-23/)
 - [Weekly News - 4/16/23](https://blog.njf.dev/newsletters/weekly-news-4-16-23/)
 - [Weekly News - 4/9/23 🐰](https://blog.njf.dev/newsletters/weekly-news-4-9-23/)
 - [Weekly News - 4/2/23](https://blog.njf.dev/newsletters/weekly-news-4-2-23/)
-- [Weekly News - 3/26/23](https://blog.njf.dev/newsletters/weekly-news-3-26-23/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
