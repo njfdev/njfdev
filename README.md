@@ -6,10 +6,10 @@
 ### <div align="center">I'm Nicholas Fasching, a hobbyist programmer 👨‍💻 that has been coding since I was 7 🚀</div>  
   
 
-- 🔭 I’m currently working on [my blog](https://blog.njf.dev)  
+- 🔭 I’m currently working on a **mystery proejct**
   
 
-- 🌱 I’m currently learning about blockchains  
+- 🌱 I’m currently learning about **Artificial Intelligence** and **Web Development** 
   
 
 - ❓ Ask me about anything tech related  
