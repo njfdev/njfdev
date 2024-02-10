@@ -6,16 +6,16 @@
 ### <div align="center">I'm Nicholas Fasching, a hobbyist programmer 👨‍💻 that has been coding since I was 7 🚀</div>  
   
 
-- 🔭 I’m currently working on a **mystery proejct**
+- 🔭 I’m currently working on a **mystery project**
   
 
-- 🌱 I’m currently learning about **Artificial Intelligence** and **Web Development** 
+- 🌱 I’m currently learning about **Astronomy**, **Astrophotography**, and **Artificial Intelligence** 
   
 
-- ❓ Ask me about anything tech related  
+- ❓ Ask me about anything tech-related  
   
 
-- 🤔 I love to learn and be curious, please help me expand my knowledge  
+- 🤔 I love to learn and be curious
   
 
 - ⚡ Fun fact: I **LOVE** Tacos 🌮🌮🌮  
